@@ -372,7 +372,7 @@ def innexia_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="Back", callback_data="innexia_back"),
-                    InlineKeyboardButton(text="Help", callback_data="help_back"),
+                    InlineKeyboardButton(text="Basic Help", callback_data="aboutmanu_howto"),
                  ],
                  [
                     InlineKeyboardButton(text="bots", url="t.me/SiderzBot"),
